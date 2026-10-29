@@ -12,7 +12,7 @@ This repository provides the starter files, practice activities, and folder stru
 
 ## Repository structure
 
-- `index.html`: the starting page for the repository.
+- ``: the starting page for the repository.
 - `week01` through `week05`: course activities organized by week.
 - `images`: shared image assets.
 - `styles`: shared CSS files.
