@@ -16,4 +16,15 @@ main {
     margin: 0 auto;
 }
 
+h1 {
+    margin: 10px;
+    text-align: center;
+}
+
+img {
+    width: 100%;
+    height: auto;
+    box-shadow: 30px 20px 30px #333;
+}
+
 footer {}
