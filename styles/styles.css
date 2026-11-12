@@ -57,7 +57,6 @@ main p {
     margin-bottom: 1rem;
 }
 
-/* Limpiar el flotado de la imagen para que el contenido posterior no se desordene */
 main::after {
     content: "";
     display: table;
@@ -80,7 +79,6 @@ aside img {
     border-radius: 6px;
 }
 
-/* Posicionamiento absoluto para superponer el título sobre la imagen del aside */
 aside h2 {
     position: absolute;
     top: 15px;
@@ -105,7 +103,6 @@ footer {
     padding: 1rem;
 }
 
-/* Class Selectors */
 .box {
     margin: 1rem auto;
     padding: 1rem;
